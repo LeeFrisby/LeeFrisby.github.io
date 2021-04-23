@@ -2338,8 +2338,8 @@ button:active,
 }
 
 #main > section.dark {
-  color: #ddd;
-  color: rgba(255, 255, 255, 0.75);
+  color: rgb(255, 255, 255);
+  color: rgba(255, 255, 255, 1);
 }
 
 #main > section.dark h2,
